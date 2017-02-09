@@ -146,7 +146,7 @@ This section contains basic statistics about the dataset and the SQL queries use
 	   ...> ORDER BY num DESC
 	   ...> LIMIT 10;
 	   
-																				daviesp12	1055137
+	daviesp12	1055137
 	jrdx		  50628
 	khbritish	  38805
 	UniEagle	  33522
@@ -241,7 +241,7 @@ Then I checked how many restaurants...
 	   ...> WHERE value='pub';
 	454
 			
-So the dataset has website info for only 9% of restaurants and 4% of pubs in Liverpool. Those percentages are quite low but we must not forget that probably not all restaurants or pubs have a website. Nevertheless, it seems that there are a lot of missing websites from the Liverpool dataset. In my opinion adding an external link, even if it just a facebook page (which is a cheap and common way to have presence on the Internet nowdays) will give an extra value in the openstreet map. This is certainly not an easy task for each user that voluntarily adds info on the map manually. But I think its not difficult to web scrap addresses as long as you already have the name of the restaurant or pub and the city name and have some programming experience. So for the interested openstreetmap volunteer this could be a very interesting task to accomplish.
+So the dataset has website info for only 9% of restaurants and 4% of pubs in Liverpool. Those percentages are quite low but we must not forget that probably not all restaurants or pubs have a website. Nevertheless, it seems that there are a lot of missing websites from the Liverpool dataset. In my opinion adding an external link, even if it just a facebook page (which is a cheap and common way to have presence on the Internet nowdays) will give extra value in the openstreet map. This is certainly not an easy task for each user that voluntarily adds info on the map manually. But I think its not difficult to web scrap addresses as long as you already have the name of the restaurant or pub and the city name and have some programming experience. So for the interested openstreetmap volunteer this could be a very interesting task to accomplish.
 
 
 
