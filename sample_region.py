@@ -1,7 +1,7 @@
 import xml.etree.cElementTree as ET  # Use cElementTree or lxml if too slow
 
 OSM_FILE = "liverpool_england.osm"  # Replace this with your osm file
-SAMPLE_FILE = "my_sample.osm"
+SAMPLE_FILE = "sample_liverpool_file.osm"
 
 # Parameter: take every k-th top level element
 k = 32
