@@ -4,7 +4,7 @@
 
 [Liverpool, England, Uk](https://en.wikipedia.org/wiki/Liverpool) , England
 
-- [https://mapzen.com/data/metro-extracts/metro/liverpool_england/](https://mapzen.com/data/metro-extracts/metro/liverpool_england//)
+[https://mapzen.com/data/metro-extracts/metro/liverpool_england/](https://mapzen.com/data/metro-extracts/metro/liverpool_england/)
 
 I completed my postgraduate studies in the UK, so this project is a good chance to explore the hometown 
 of Beatles and Liverpool FC. 
