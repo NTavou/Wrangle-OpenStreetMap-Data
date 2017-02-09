@@ -4,7 +4,7 @@ OSM_FILE = "liverpool_england.osm"  # Replace this with your osm file
 SAMPLE_FILE = "my_sample.osm"
 
 # Parameter: take every k-th top level element
-k = 4
+k = 32
 
 def get_element(osm_file, tags=('node', 'way', 'relation')):
     """Yield element if it is the right type of tag
