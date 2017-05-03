@@ -2,7 +2,7 @@
 
 ## Map Area
 
-[Liverpool, England, Uk](https://en.wikipedia.org/wiki/Liverpool) , England
+[Liverpool, England, Uk](https://en.wikipedia.org/wiki/Liverpool)
 
 [https://mapzen.com/data/metro-extracts/metro/liverpool_england/](https://mapzen.com/data/metro-extracts/metro/liverpool_england/)
 
