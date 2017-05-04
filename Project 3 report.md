@@ -121,12 +121,12 @@ This section contains basic statistics about the dataset and the SQL queries use
 
 ### File sizes
 	liverpool_england.osm	301.3 MB
-	liverpool.db			164.3 MB
-	nodes.csv				106.6 MB
-	nodes_tags.csv			  4.0 MB
-	ways.csv				 15.3 MB
-	ways_tags.csv			 18.4 MB
-	way_nodes.csv			 43.9 MB
+	liverpol.db		164.3 MB
+	nodes.csv		106.6 MB
+	nodes_tags.csv		  4.0 MB
+	ways.csv		 15.3 MB
+	ways_tags.csv		 18.4 MB
+	way_nodes.csv		 43.9 MB
 
 ### Number of nodes
 	sqlite> SELECT COUNT(*) FROM nodes;
@@ -166,10 +166,10 @@ This section contains basic statistics about the dataset and the SQL queries use
 	   ...> LIMIT 10;
 	   
 	post_box			543
-	pub					454
+	pub				454
 	restaurant			225
 	fast_food			196
-	place_of_worship	194
+	place_of_worship		194
 	parking				176
 	cafe				139
 	telephone			128
@@ -206,7 +206,7 @@ This section contains basic statistics about the dataset and the SQL queries use
 	
 	Subway		15
 	McDonald's	 8
-	KFC			 5
+	KFC		 5
 	Burger King	 3
 	Dominos		 3
 
@@ -223,7 +223,7 @@ As I was running several queries like the ones above, I thought it would be inte
 	   ...> ORDER BY num DESC ;
 	
 	restaurant	21
-	pub			18
+	pub		18
 	......
 
 Then I checked how many restaurants... 
