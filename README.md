@@ -1,4 +1,4 @@
-## P3 Wrangle OpenStreetMap Data
+## Wrangle OpenStreetMap Data
 
 * Used data munging techniques to assess the quality of Liverpool OpenStreetMap dataset for validity, accuracy, completeness, consistency and uniformity.
 (Python, SQL, data verification, data cleaning)
