@@ -1,3 +1,6 @@
 ## P3 Wrangle OpenStreetMap Data
 
-This repository contains the third project for Udacity's **Data Analyst Nanodegree**. 
+* Used data munging techniques to assess the quality of Liverpool OpenStreetMap dataset for validity, accuracy, completeness, consistency and uniformity.
+(Python, SQL, data verification, data cleaning)
+
+This project was part of the Data Analyst Nanodegree Program by [Udacity](https://www.udacity.com/)
