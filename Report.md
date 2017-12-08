@@ -1,4 +1,4 @@
-# P3: Wrangle OpenStreetMap Data
+# Wrangle OpenStreetMap Data
 
 ## Map Area
 
