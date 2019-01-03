@@ -1,6 +1,6 @@
 ## Wrangle OpenStreetMap Data
 
-[Liverpool map](https://wiki.openstreetmap.org/w/images/thumb/9/9c/Liverpool-Birkenhead.jpg/750px-Liverpool-Birkenhead.jpg)
+![Liverpool map](https://wiki.openstreetmap.org/w/images/thumb/9/9c/Liverpool-Birkenhead.jpg/750px-Liverpool-Birkenhead.jpg)
 
 - Used data munging techniques to assess the quality of the **Liverpool OpenStreetMap** dataset.
 
